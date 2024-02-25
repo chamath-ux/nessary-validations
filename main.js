@@ -1,6 +1,9 @@
-import {test} from './js/test.js';
+export function test(str)
+{
+    return str;
+}
 
 
-module.exports = {
+module.exports ={
     test
 }
