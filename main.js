@@ -1,7 +1,4 @@
-function test(str)
-{
-    return str;
-}
+import {test} from './js/test';
 
 
 module.exports ={
