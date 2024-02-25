@@ -1,4 +1,4 @@
-export function test(str)
+export default function test(str)
 {
     return str;
 }

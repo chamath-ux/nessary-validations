@@ -1,6 +1,6 @@
 import {test} from './js/test.js';
 
 
-module.exports ={
+module.exports = {
     test
 }
