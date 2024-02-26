@@ -3,6 +3,6 @@ const test = (str) =>
     return str;
 }
 
-module.exports ={
+export default{
     test
 }
