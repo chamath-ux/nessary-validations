@@ -1,4 +1,4 @@
-export function test(str)
+const test = (str) =>
 {
     return str;
 }
