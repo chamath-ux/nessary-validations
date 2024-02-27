@@ -3,6 +3,4 @@ const test = (str) =>
     return str;
 }
 
-export default{
-    test
-}
+export default test;
