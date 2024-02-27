@@ -1,5 +1,5 @@
 // main.js
-import { greet, add, PI } from './js/test.mjs';
+import { greet, add, PI } from './js/test.js';
 
 console.log(greet('World')); // Output: Hello, World!
 console.log(add(3, 5)); // Output: 8
